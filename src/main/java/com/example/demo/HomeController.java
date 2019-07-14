@@ -17,7 +17,7 @@ public class HomeController {
 //    private String chen;
 
 
-    @RequestMapping("/test")
+    @RequestMapping("/")
     public String apollo() {
         return "20190714  what's your problem!";
     }
